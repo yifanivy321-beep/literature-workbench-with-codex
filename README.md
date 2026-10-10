@@ -43,11 +43,11 @@ Windows 本地 PDF 文献阅读、检索、批注、OCR 与 Codex 问答工作�
 
 截图来自仓库内置的三页合成演示 PDF，不含个人文献或账号信息：
 
-![阅读界面](docs/screenshots/01-reader.jpg)
+![阅读界面](01-reader.jpg)
 
-![设置控制区（裁剪，未展示个人路径）](docs/screenshots/02-settings.jpg)
+![设置控制区（裁剪，未展示个人路径）](02-settings.jpg)
 
-![选段与笔记界面](docs/screenshots/03-selection.jpg)
+![选段与笔记界面](03-selection.jpg)
 
 ## 数据与隐私
 
