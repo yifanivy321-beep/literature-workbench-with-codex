@@ -75,5 +75,4 @@ python tools/package_workbench.py
 
 - [安装、扫描 PDF OCR 与完整使用方法](docs/安装与使用.md)
 - [Codex 安装、登录、退出与故障处理](docs/登录Codex.md)
-- [上传 GitHub 的文件与操作步骤](docs/GitHub发布指南.md)
-- [本次发布验证与限制](docs/发布验证.md)
+
